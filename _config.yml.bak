@@ -106,7 +106,3 @@ deploy:
   repository: https://github.com/zixelme/blog
   branch: master
 # hexo-admin authentification
-admin:
-  username: zixelme
-  password_hash: $2a$10$M6ZAXfavaU8E6AED4M1EgOTjwAQL0eyK/hilsuZtac.HHoBPlvG6y
-  secret: zixelme
